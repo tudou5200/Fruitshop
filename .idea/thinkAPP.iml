@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$/../DEMO" />
+    <content url="file://$MODULE_DIR$/../Dsupport" />
+    <content url="file://$MODULE_DIR$/../OA39th" />
+    <content url="file://$MODULE_DIR$/../PHP-OA" />
+    <content url="file://$MODULE_DIR$/../bcrd" />
+    <content url="file://$MODULE_DIR$/../shop" />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
